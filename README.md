@@ -1,6 +1,6 @@
 # HW1_S23
 
-**Due TBD 11:59 PM Eastern.**
+**Due 2/8 11:59 PM Eastern.**
 
 ## Video walkthrough
 
